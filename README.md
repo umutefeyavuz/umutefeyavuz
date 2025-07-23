@@ -4,7 +4,7 @@ I'm a self-driven developer interested in **C++**, **AI**, **Cybersecurity**, an
 
 ---
 
-## 🔧 Tech Stack & Focus Areas
+## Tech Stack & Focus Areas
 
 - **Languages**: C++, Python, C, SQL
 - **Cybersecurity**: Ethical Hacking (Cisco), Linux, Wireshark, Kali Linux Tools
@@ -14,20 +14,16 @@ I'm a self-driven developer interested in **C++**, **AI**, **Cybersecurity**, an
 
 ---
 
-## 📌 Featured Projects
-
 Here are some of the projects I’m working on or have completed:
 
-- 🧠 [AI Assistant on Raspberry Pi](https://github.com/umutefeyavuz/ai-assistant) – NLP assistant with system control on Pi
-- 🔒 [Port Scanner Tool](https://github.com/umutefeyavuz/port-scanner) – A basic cybersecurity tool written in Python
-- 📊 [SQL Movie Analyzer](https://github.com/umutefeyavuz/sql-analyzer) – Movie dataset analysis using advanced SQL
-- ⚙️ [C++ Grade System](https://github.com/umutefeyavuz/grade-system) – Student grading system using STL
-
+-  [AI Assistant on Raspberry Pi](https://github.com/umutefeyavuz/ai-assistant) – NLP assistant with system control on Pi
+-  [Port Scanner Tool](https://github.com/umutefeyavuz/port-scanner) – A basic cybersecurity tool written in Python
+-  [SQL Movie Analyzer](https://github.com/umutefeyavuz/sql-analyzer) – Movie dataset analysis using advanced SQL
 > More coming soon. Stay tuned 👀
 
 ---
 
 ## 📫 Contact
 
-- [LinkedIn](https://linkedin.com/in/umutefeyavuz)  
+- [LinkedIn](https://www.linkedin.com/in/umut-efe-yavuz-b1930b36a/)  
 - Mail: umutefeyavuz@gmail.com
