@@ -55,3 +55,9 @@ More coming soon. Stay tuned.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
+---
+
+## Fun Fact
+
+I started programming when I was 8 years old, creating projects with Scratch. It was the beginning of my passion for coding and problem-solving.
