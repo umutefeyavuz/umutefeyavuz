@@ -31,18 +31,6 @@ I'm a self-driven developer interested in **C++**, **AI**, **Cybersecurity**, an
 ### Robotics & FRC
 - Object Detection using YOLO on Raspberry Pi
 - Java-based robot control & vision alignment code
-
----
-
-## Featured Projects
-
-- [AI Assistant on Raspberry Pi](https://github.com/umutefeyavuz/ai-assistant) – NLP assistant with system control on Pi  
-- [Port Scanner Tool](https://github.com/umutefeyavuz/port-scanner) – A basic cybersecurity tool written in Python  
-- [SQL Movie Analyzer](https://github.com/umutefeyavuz/sql-analyzer) – Movie dataset analysis using advanced SQL  
-- [FRC Robot Code](https://github.com/umutefeyavuz/frc-robot-code) – Java & vision alignment code for swerve drive and object detection  
-
-More coming soon. Stay tuned.
-
 ---
 
 ## Contact Me
